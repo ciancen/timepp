@@ -9,10 +9,10 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-30 14:15+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2021-11-07 19:30+ZONE\n"
+"Last-Translator: Alessandro Seno <a.seno@mclink.it>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: \n"
+"Language: Italian \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,18 +20,18 @@ msgstr ""
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:57
 msgid "Delete all completed tasks"
-msgstr ""
+msgstr "Cancella tutte le attività"
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:70
 msgid "Archive all completed tasks to done.txt and delete them"
-msgstr ""
+msgstr "Archivia tutte le attività completate su done.txt ed eliminale"
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:94
 #: data/po_files/../../sections/todo/view__task_editor.js:207
 #: data/po_files/../../sections/todo/view__file_switcher.js:444
 #: data/po_files/../../sections/alarms.js:566
 msgid "Delete"
-msgstr ""
+msgstr "Elmina"
 
 #: data/po_files/../../sections/todo/view__clear_tasks.js:97
 #: data/po_files/../../sections/todo/view__stats.js:257
@@ -42,11 +42,11 @@ msgstr ""
 #: data/po_files/../../sections/alarms.js:574
 #: data/po_files/../../sections/pomodoro.js:776
 msgid "Cancel"
-msgstr ""
+msgstr "Cancella"
 
 #: data/po_files/../../sections/todo/view__stats.js:101
 msgid "Today"
-msgstr ""
+msgstr "Oggi"
 
 #: data/po_files/../../sections/todo/view__stats.js:102
 msgid "This Week"
@@ -54,50 +54,50 @@ msgstr ""
 
 #: data/po_files/../../sections/todo/view__stats.js:103
 msgid "This Month"
-msgstr ""
+msgstr "Questo Mese"
 
 #: data/po_files/../../sections/todo/view__stats.js:104
 msgid "Last 3 Months"
-msgstr ""
+msgstr "Ultimi 3 mesi"
 
 #: data/po_files/../../sections/todo/view__stats.js:105
 msgid "Last 6 Months"
-msgstr ""
+msgstr "Ultimi 6 mesi"
 
 #: data/po_files/../../sections/todo/view__stats.js:106
 msgid "All Time"
-msgstr ""
+msgstr "Per Sempre"
 
 #: data/po_files/../../sections/todo/view__stats.js:173
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:62
 #: data/po_files/../../sections/todo/view__file_switcher.js:68
 #: data/po_files/../../sections/timer.js:641
 msgid "Search..."
-msgstr ""
+msgstr "Ricerca..."
 
 #: data/po_files/../../sections/todo/view__stats.js:188
 #: data/po_files/../../sections/todo/view__stats.js:302
 #: data/po_files/../../sections/todo/view__stats.js:683
 msgid "Tasks"
-msgstr ""
+msgstr "Attività"
 
 #: data/po_files/../../sections/todo/view__stats.js:203
 #: data/po_files/../../sections/todo/view__stats.js:297
 #: data/po_files/../../sections/todo/view__stats.js:683
 msgid "Projects"
-msgstr ""
+msgstr "Progetti"
 
 #: data/po_files/../../sections/todo/view__stats.js:224
 msgid "Year:"
-msgstr ""
+msgstr "Anno:"
 
 #: data/po_files/../../sections/todo/view__stats.js:224
 msgid "Month:"
-msgstr ""
+msgstr "Mese:"
 
 #: data/po_files/../../sections/todo/view__stats.js:224
 msgid "Day:"
-msgstr ""
+msgstr "Giorno:"
 
 #: data/po_files/../../sections/todo/view__stats.js:254
 #: data/po_files/../../sections/todo/view__sort.js:112
@@ -108,15 +108,15 @@ msgstr ""
 #: data/po_files/../../sections/alarms.js:575
 #: data/po_files/../../sections/pomodoro.js:775
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: data/po_files/../../sections/todo/view__stats.js:291
 msgid "Custom Range..."
-msgstr ""
+msgstr "Intervallo personalizzato..."
 
 #: data/po_files/../../sections/todo/view__stats.js:588
 msgid "Stats for task"
-msgstr ""
+msgstr "STatistiche per attività"
 
 #: data/po_files/../../sections/todo/view__stats.js:614
 #: data/po_files/../../sections/todo/view__stats.js:638
@@ -126,133 +126,133 @@ msgstr ""
 #, javascript-format
 msgid "%d day"
 msgid_plural "%d days"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d giorno"
+msgstr[1] "%d giorni"
 
 #: data/po_files/../../sections/todo/view__stats.js:1174
 msgid "Average per day (including off days)"
-msgstr ""
+msgstr "Media giornaliera (inclusi i giorni di riposo)"
 
 #: data/po_files/../../sections/todo/view__stats.js:1183
 msgid "Average per day (excluding off days)"
-msgstr ""
+msgstr "Media giornaliera (esclusi i giorni di riposo)"
 
 #: data/po_files/../../sections/todo/view__stats.js:1186
 #: data/po_files/../../sections/todo/view__stats.js:1196
 msgid "Total"
-msgstr ""
+msgstr "Totale"
 
 #: data/po_files/../../sections/todo/view__stats.js:1228
 msgid "Interval"
-msgstr ""
+msgstr "Intervallo"
 
 #: data/po_files/../../sections/todo/view__stats.js:1230
 msgid "No intervals found."
-msgstr ""
+msgstr "Nessun intervallo trovato."
 
 #: data/po_files/../../sections/todo/view__sort.js:63
 msgid "Sort by Pin"
-msgstr ""
+msgstr "Ordina per Pin"
 
 #: data/po_files/../../sections/todo/view__sort.js:64
 msgid "Sort by Context"
-msgstr ""
+msgstr "Ordina per Contesto"
 
 #: data/po_files/../../sections/todo/view__sort.js:65
 msgid "Sort by Projects"
-msgstr ""
+msgstr "Ordina per Progetti"
 
 #: data/po_files/../../sections/todo/view__sort.js:66
 msgid "Sort by Priority"
-msgstr ""
+msgstr "Ordina per Priorità"
 
 #: data/po_files/../../sections/todo/view__sort.js:67
 msgid "Sort by Due Date"
-msgstr ""
+msgstr "Ordina per Data di Completamento"
 
 #: data/po_files/../../sections/todo/view__sort.js:68
 msgid "Sort by Alphabet"
-msgstr ""
+msgstr "In Ordine Alfabetico"
 
 #: data/po_files/../../sections/todo/view__sort.js:69
 msgid "Sort by Recurrence Date"
-msgstr ""
+msgstr "Ordina per Data di Ricorrenza"
 
 #: data/po_files/../../sections/todo/view__sort.js:70
 msgid "Sort by Completed"
-msgstr ""
+msgstr "Ordina per Completato"
 
 #: data/po_files/../../sections/todo/view__sort.js:71
 msgid "Sort by Creation Date"
-msgstr ""
+msgstr "Ordina per Data di Creazione"
 
 #: data/po_files/../../sections/todo/view__sort.js:72
 msgid "Sort by Completion Date"
-msgstr ""
+msgstr "Ordina per Data di completamento"
 
 #: data/po_files/../../sections/todo/view__sort.js:98
 msgid "Automatic sorting"
-msgstr ""
+msgstr "Ordinamento automatico"
 
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:72
 msgid "syntax help"
-msgstr ""
+msgstr "Aiuto per la Sintassi"
 
 #: data/po_files/../../sections/todo/view__kanban_switcher.js:130
 msgid "To use kanban boards, add the kanban todo extension to a task."
-msgstr ""
+msgstr "Per utilizzare le bacheche kanban, aggiungi l'estensione kanban delle cose da fare a un'attività."
 
 #: data/po_files/../../sections/todo/view__loading.js:37
 #: data/po_files/../../sections/todo/MAIN.js:671
 msgid "Loading..."
-msgstr ""
+msgstr "Caricamento in corso..."
 
 #: data/po_files/../../sections/todo/view__filters.js:71
 msgid "Add custom filter..."
-msgstr ""
+msgstr "Aggiungi filtro personalizzato..."
 
 #: data/po_files/../../sections/todo/view__filters.js:116
 msgid "Show hidden tasks only"
-msgstr ""
+msgstr "Mostra solo le attività nascoste"
 
 #: data/po_files/../../sections/todo/view__filters.js:123
 #, javascript-format
 msgid "%d hidden task"
 msgid_plural "%d hidden tasks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ""%d compito nascosto"
+msgstr[1] ""%d compiti nascosti"
 
 #: data/po_files/../../sections/todo/view__filters.js:139
 msgid "Show recurring tasks only"
-msgstr ""
+msgstr "Mostra solo attività ricorrenti"
 
 #: data/po_files/../../sections/todo/view__filters.js:149
 #, javascript-format
 msgid "%d recurring task"
 msgid_plural "%d recurring tasks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d attività ricorrente"
+msgstr[1] "%d attività ricorrenti"
 
 #: data/po_files/../../sections/todo/view__filters.js:165
 msgid "Show deferred tasks only"
-msgstr ""
+msgstr "Mostra solo le attività posticipate"
 
 #: data/po_files/../../sections/todo/view__filters.js:174
 #, javascript-format
 msgid "%d deferred task"
 msgid_plural "%d deferred tasks"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] ""%d attività posticipata"
+msgstr[1] ""%d attività posticipati"
 
 #: data/po_files/../../sections/todo/view__filters.js:190
 msgid "Invert filters"
-msgstr ""
+msgstr "Inverti i filtri"
 
 #: data/po_files/../../sections/todo/view__filters.js:205
 #: data/po_files/../../sections/stopwatch.js:180
 #: data/po_files/../../sections/stopwatch.js:580
 msgid "Reset"
-msgstr ""
+msgstr "Ripristina"
 
 #: data/po_files/../../sections/todo/view__filters.js:276
 msgid "Completed"
